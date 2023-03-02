@@ -1,2 +1,3 @@
 livoxdetection.egg-info/
 build/
+__pycache__/
